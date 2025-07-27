@@ -17,5 +17,7 @@ SnapSummary is a Chrome extension that summarizes the content of web pages using
 - Chrome Extension APIs (Manifest V3)
 - Gemini API (Google AI)
 
-## Screenshots
+## Preview
+- <a href="https://github.com/nubu-046/SnapSummary/blob/main/Screenshot/Screenshot%202025-07-27%20205433.png">Preview 1</a>
+- <a href="https://github.com/nubu-046/SnapSummary/blob/main/Screenshot/Screenshot%202025-07-27%20205527.png">Preview 2</a>
 
